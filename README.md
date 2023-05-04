@@ -22,7 +22,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ''''
 
-My Github username is robbi19, which can be accessed here :
+My Github username is robbi19, which can be accessed here :https://github.com/robbi19/HTML-CSS-Git-Code-Refactor/edit/main/README.md
 
 
 Sources include stack overflow for github help, Youtube for learning how to link images and tutorial services.
